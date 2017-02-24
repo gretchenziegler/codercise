@@ -1,5 +1,17 @@
 # Putting the FUN in functions!
 
+**Function of Thrones**
+
+Create a function called characterHouse.
+* This function should take two string arguments: firstName and houseName.
+* When executed, the function should return "firstName, house of houseName".
+
+Example:
+```
+characterHouse("Tyrion", "Lannister");
+// output => "Tyrion, house of Lannister."
+```
+
 **Triangulate It**
 
 Create a function called triangleChecker.
@@ -17,14 +29,3 @@ When fizzBuzz(maxNumber) is executed, it should do the following up to the maxNu
 * If a number is divisible by both 3 and 5, it should log "FizzBuzz".
 * Otherwise, it should just log the number.
 
-**Function of Thrones**
-
-Create a function called characterHouse.
-* This function should take two string arguments: firstName and houseName.
-* When executed, the function should return "firstName, house of houseName".
-
-Example:
-```
-characterHouse("Tyrion", "Lannister");
-// output => "Tyrion, house of Lannister."
-```
