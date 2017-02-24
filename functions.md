@@ -10,9 +10,21 @@ Create a function called triangleChecker.
 
 2. FizzBuzz
 
-Create a function called fizzBuzz. 
+Create a function called fizzBuzz.
 When fizzBuzz(maxNumber) is executed, it should do the following up to the maxNumber:
 * If a number is divisible by 3, it should log the word "Fizz" to the console.
 * If a number is divisible by 5, it should log "Buzz".
 * If a number is divisible by both 3 and 5, it should log "FizzBuzz".
 * Otherwise, it should just log the number.
+
+3. Function of Thrones
+
+Create a function called characterHouse.
+* This function should take two string arguments: firstName and houseName.
+* When executed, the function should return "firstName, house of houseName".
+
+Example:
+```
+characterHouse("Tyrion", "Lannister");
+=> "Tyrion, house of Lannister."
+```
