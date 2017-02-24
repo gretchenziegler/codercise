@@ -1,2 +1,2 @@
 # codercise
-A collection of exercises for beginning coders
+A collection of exercises for beginning coders.
