@@ -1,9 +1,9 @@
 # Conditionals
 
-1. Color Conditions
+**Color Conditions**
 
-Chartreuse is my favorite color. Magenta is my second favorite. Periwinkle is my third favorite. I hate every other color! 
-* Write a conditional that will check a variable set to a color and tell me how I feel about it. 
+Chartreuse is my favorite color. Magenta is my second favorite. Periwinkle is my third favorite. I hate every other color!
+* Write a conditional that will check a variable set to a color and tell me how I feel about it.
 
 ```
 var color = "Magenta";

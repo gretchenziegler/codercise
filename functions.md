@@ -1,6 +1,6 @@
 # Putting the FUN in functions!
 
-1. Triangulate It
+**Triangulate It**
 
 Create a function called triangleChecker.
 * It should take three numbers as arguments.
@@ -8,7 +8,7 @@ Create a function called triangleChecker.
 * If those three numbers add up to 180, then return true.
 * If those three numbers do not add up to 180, then return false.
 
-2. FizzBuzz
+**FizzBuzz**
 
 Create a function called fizzBuzz.
 When fizzBuzz(maxNumber) is executed, it should do the following up to the maxNumber:
@@ -17,7 +17,7 @@ When fizzBuzz(maxNumber) is executed, it should do the following up to the maxNu
 * If a number is divisible by both 3 and 5, it should log "FizzBuzz".
 * Otherwise, it should just log the number.
 
-3. Function of Thrones
+**Function of Thrones**
 
 Create a function called characterHouse.
 * This function should take two string arguments: firstName and houseName.
@@ -26,5 +26,5 @@ Create a function called characterHouse.
 Example:
 ```
 characterHouse("Tyrion", "Lannister");
-=> "Tyrion, house of Lannister."
+// output => "Tyrion, house of Lannister."
 ```

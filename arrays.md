@@ -1,6 +1,6 @@
 # Arrays
 
-1. On this episode of Teenage Mutant Ninja Turtles: All Up in DisArray
+**On this episode of Teenage Mutant Ninja Turtles: All Up in DisArray**
 
 Start with the following array:
 ```

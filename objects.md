@@ -1,8 +1,8 @@
 # Objects/Hashes
 
-1. MMMM...Flavorful Objects!
+**MMMM...Flavorful Objects!**
 
-Create an object representing the following foods: avocados, steak, grass, whiskey, muffins, fish, and soap. 
+Create an object representing the following foods: avocados, steak, grass, whiskey, muffins, fish, and soap.
 
 Avocados are fresh, steak is meaty, grass is fiber-filled, whiskey is smooth, muffins are sweet, fish is mercury-tastic, and soap is disgusting. Here is some starter code:
 
