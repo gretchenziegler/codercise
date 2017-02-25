@@ -1,5 +1,20 @@
 # Objects/Hashes
 
+**Quit Putin Me On**
+
+```
+putinsBrain = {
+  launch_code: "a5Mjp257GHMGH23e5qxE",
+  fav_hobby: "Riding ponies",
+  prideful: true
+}
+```
+
+- Return the string `"Riding ponies"`
+- Return the string `"a5Mjp257GHMGH23e5qxE"`
+- Add the key-value pair `obsessiveCrush: "Condoleezza Rice"`
+- Add the key-value pair `torture_count: 931`
+
 **MMMM...Flavorful Objects!**
 
 Create an object representing the following foods: avocados, steak, grass, whiskey, muffins, fish, and soap.

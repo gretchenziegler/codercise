@@ -29,3 +29,17 @@ When fizzBuzz(maxNumber) is executed, it should do the following up to the maxNu
 * If a number is divisible by both 3 and 5, it should log "FizzBuzz".
 * Otherwise, it should just log the number.
 
+**More Function Fun!**
+
+Declare a function called `bigBackwards` that takes a single string as an argument and returns that string backwards and uppercase.
+
+Declare a function called `informedCounter` that takes a string and returns a string explaining the size of that string.
+
+Example output:
+```
+"The word 'dog' has 3 letters!"
+```
+
+Declare a function called `bigArray` that takes an array of strings and returns that array of string with all the letters uppercased.
+
+Declare a function called `luckyNumber` that takes two numbers as arguments and returns "Unlucky!" if the sum of those numbers is divisible by 13, and "Lucky!" if not.
