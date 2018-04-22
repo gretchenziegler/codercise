@@ -1,4 +1,4 @@
-##The Search for Obi-Wan
+## The Search for Obi-Wan
 
 C-3PO is a well-known protocol droid from the Star Wars universe, famed for having a frantic resolve and for directing snappy emotional outbursts at his droid life-mate, R2-D2. Your task is to write a program modelling a simple interaction with C-3PO as he searches for the reclusive Jedi Master, Obi-Wan Kenobi.
 
