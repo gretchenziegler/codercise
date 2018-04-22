@@ -1,5 +1,22 @@
 # Objects/Hashes
 
+**Movies**
+
+Create a hash with the following keys/values:
+
+| Key | Value |
+|---|---|
+| 'Hitchcock' | ['Rear Window']|
+| 'Truffaut' | ['400 Blows'] |
+| 'Myers'  | ['Austin Powers', 'Shrek']|
+| 'fruit' | 'banana' |
+
+- Delete `fruit` and `banana` from the hash.
+- Add "The Birds" to the `Hitchcock` array.
+- Remove `Shrek`.
+- Return all of the keys.
+- Return all the values.
+
 **Quit Putin Me On**
 
 ```
