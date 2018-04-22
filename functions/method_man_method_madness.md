@@ -1,4 +1,4 @@
-#Method Man's Method Madness
+# Method Man's Method Madness
 
 ```ruby
 wu_tang = [
